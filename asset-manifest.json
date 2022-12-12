@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/connect4/static/css/main.0ddabb91.css",
+    "main.js": "/connect4/static/js/main.af09bf99.js",
+    "static/media/redCoin.png": "/connect4/static/media/redCoin.09d6bb56ab1b1e6d69c4.png",
+    "static/media/yellowCoin.png": "/connect4/static/media/yellowCoin.96e62f47d8ca01818056.png",
+    "index.html": "/connect4/index.html",
+    "main.0ddabb91.css.map": "/connect4/static/css/main.0ddabb91.css.map",
+    "main.af09bf99.js.map": "/connect4/static/js/main.af09bf99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ddabb91.css",
+    "static/js/main.af09bf99.js"
+  ]
+}
