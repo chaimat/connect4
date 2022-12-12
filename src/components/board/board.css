@@ -1,0 +1,40 @@
+.board-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    background: #7561D0;
+    height: 480px;
+    width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 40px;
+    gap: 10px;
+    border: solid 5px #6647CA;
+
+}
+
+.board-start-button {
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #7561D0;
+    border: solid 2px #6647CA;
+    color: #190E77;
+    border-radius: 8px;
+    margin: 20px auto;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 600;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.board-start-button:hover {
+    cursor: pointer;
+}
+
+.board-start-button:active {
+    background-color: #6647CA;
+
+}

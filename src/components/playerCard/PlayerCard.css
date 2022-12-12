@@ -1,0 +1,30 @@
+.player-card-wrapper{
+    background-color: #7561D0;
+    width: 130px;
+    height: 180px;
+    border-radius: 6%;
+    border: solid 5px #6647CA;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.player-card-window{
+    width: 110px;
+    height: 110px;
+    background-color: #190E77;
+    margin: 10px auto;
+    border-radius: 5%;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.player-card-name, .player-card-wins{
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    color: #190E77;
+}
+
+.player-card-coin-img{
+    width: 82%
+}

@@ -1,0 +1,21 @@
+.board-slot {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.board-slot-0 {
+    background-color: #190855;
+}
+
+.board-slot-1 {
+    background-image: url('./redCoin.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.board-slot-2 {
+    background-image: url('./yellowCoin.png');
+    background-size: cover;
+    background-position: center;
+}

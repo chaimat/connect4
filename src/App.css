@@ -1,0 +1,19 @@
+body {
+  background-color: #190855;
+}
+
+.test-app-div{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heading{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 4rem;
+  color: #7561D0;
+  text-align: center;
+  width: 100%;
+  font-weight: 900;
+}
